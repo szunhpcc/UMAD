@@ -1,0 +1,360 @@
+                 Build Log
+         20:59:54.58 2014/08/31 周日
+===========================================
+
+
+
+Current Task   : Build Index ( Size: 2000, Build-Mode: 0 )
+Current Command: "UMAD --runOption build --buildMode 0 --indexName image_2000_0_v2_f3_m100_tR0.1 --n allfeas.dat --v 2 --f 3 --t image --e MVPIndex --psm fft --dpm PivotWise --m 100 --init 2000 --F 2000 --s 2000 --dim 66 --res results_image_build_2000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt --tR 0.1 --sop Sequence --pbop Trisection"
+
+Build Started on 20:59:54.61 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `build'
+option -buildMode with value 0
+option -indexName with value image_2000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -numPivot with value `2'
+option -singlePivotFanout with value `3'
+option -dataType with value `image'
+option -listType with value `MVPIndex'
+option -pivotSelectionMethod with value `fft'
+option -partitionMethod with value `PivotWise'
+option -maxLeafSize with value `100'
+option -initialSize with value `2000'
+option -finalSize with value `2000'
+option -stepSize with value `2000'
+option -dim with value `66'
+option -resultsFileName with value `results_image_build_2000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt'
+option -trisectionRadius with value 0.1
+option -selectOptimalPivots with value `Sequence'
+option -partitionByOnePivot with value `Trisection'
+Root address:627854 height of MVP-tree:30
+start get mvp-tree structure information!
+ height: 1 nodeNumber: 1 internal node child Number: 4 leaf node child number:5
+ height: 2 nodeNumber: 9 internal node child Number: 4 leaf node child number:16
+ height: 3 nodeNumber: 20 internal node child Number: 4 leaf node child number:12
+ height: 4 nodeNumber: 16 internal node child Number: 3 leaf node child number:10
+ height: 5 nodeNumber: 13 internal node child Number: 3 leaf node child number:8
+ height: 6 nodeNumber: 11 internal node child Number: 2 leaf node child number:6
+ height: 7 nodeNumber: 8 internal node child Number: 1 leaf node child number:6
+ height: 8 nodeNumber: 7 internal node child Number: 1 leaf node child number:3
+ height: 9 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 10 nodeNumber: 4 internal node child Number: 1 leaf node child number:4
+ height: 11 nodeNumber: 5 internal node child Number: 1 leaf node child number:2
+ height: 12 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 13 nodeNumber: 4 internal node child Number: 1 leaf node child number:1
+ height: 14 nodeNumber: 2 internal node child Number: 1 leaf node child number:3
+ height: 15 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 16 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 17 nodeNumber: 2 internal node child Number: 1 leaf node child number:2
+ height: 18 nodeNumber: 3 internal node child Number: 1 leaf node child number:2
+ height: 19 nodeNumber: 3 internal node child Number: 1 leaf node child number:4
+ height: 20 nodeNumber: 5 internal node child Number: 1 leaf node child number:1
+ height: 21 nodeNumber: 2 internal node child Number: 1 leaf node child number:2
+ height: 22 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 23 nodeNumber: 2 internal node child Number: 1 leaf node child number:2
+ height: 24 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 25 nodeNumber: 4 internal node child Number: 1 leaf node child number:1
+ height: 26 nodeNumber: 2 internal node child Number: 1 leaf node child number:1
+ height: 27 nodeNumber: 2 internal node child Number: 1 leaf node child number:2
+ height: 28 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 29 nodeNumber: 2 internal node child Number: 0 leaf node child number:2
+************** total internal node:43 total leaf node:109
+
+===========================================
+Build Ended on 20:59:58.72 2014/08/31 周日, Returned Code: 0 
+
+
+
+
+
+Current Task   : Build Index ( Size: 4000, Build-Mode: 0 )
+Current Command: "UMAD --runOption build --buildMode 0 --indexName image_4000_0_v2_f3_m100_tR0.1 --n allfeas.dat --v 2 --f 3 --t image --e MVPIndex --psm fft --dpm PivotWise --m 100 --init 4000 --F 4000 --s 2000 --dim 66 --res results_image_build_4000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt --tR 0.1 --sop Sequence --pbop Trisection"
+
+Build Started on 20:59:58.74 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `build'
+option -buildMode with value 0
+option -indexName with value image_4000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -numPivot with value `2'
+option -singlePivotFanout with value `3'
+option -dataType with value `image'
+option -listType with value `MVPIndex'
+option -pivotSelectionMethod with value `fft'
+option -partitionMethod with value `PivotWise'
+option -maxLeafSize with value `100'
+option -initialSize with value `4000'
+option -finalSize with value `4000'
+option -stepSize with value `2000'
+option -dim with value `66'
+option -resultsFileName with value `results_image_build_4000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt'
+option -trisectionRadius with value 0.1
+option -selectOptimalPivots with value `Sequence'
+option -partitionByOnePivot with value `Trisection'
+Root address:1253590 height of MVP-tree:25
+start get mvp-tree structure information!
+ height: 1 nodeNumber: 1 internal node child Number: 5 leaf node child number:4
+ height: 2 nodeNumber: 9 internal node child Number: 10 leaf node child number:15
+ height: 3 nodeNumber: 25 internal node child Number: 8 leaf node child number:30
+ height: 4 nodeNumber: 38 internal node child Number: 5 leaf node child number:23
+ height: 5 nodeNumber: 28 internal node child Number: 4 leaf node child number:12
+ height: 6 nodeNumber: 16 internal node child Number: 3 leaf node child number:10
+ height: 7 nodeNumber: 13 internal node child Number: 2 leaf node child number:7
+ height: 8 nodeNumber: 9 internal node child Number: 2 leaf node child number:5
+ height: 9 nodeNumber: 7 internal node child Number: 2 leaf node child number:4
+ height: 10 nodeNumber: 6 internal node child Number: 1 leaf node child number:6
+ height: 11 nodeNumber: 7 internal node child Number: 1 leaf node child number:3
+ height: 12 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 13 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 14 nodeNumber: 3 internal node child Number: 1 leaf node child number:4
+ height: 15 nodeNumber: 5 internal node child Number: 1 leaf node child number:2
+ height: 16 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 17 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 18 nodeNumber: 3 internal node child Number: 1 leaf node child number:2
+ height: 19 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 20 nodeNumber: 4 internal node child Number: 1 leaf node child number:1
+ height: 21 nodeNumber: 2 internal node child Number: 1 leaf node child number:1
+ height: 22 nodeNumber: 2 internal node child Number: 1 leaf node child number:1
+ height: 23 nodeNumber: 2 internal node child Number: 1 leaf node child number:2
+ height: 24 nodeNumber: 3 internal node child Number: 0 leaf node child number:3
+************** total internal node:56 total leaf node:148
+
+===========================================
+Build Ended on 21:00:06.67 2014/08/31 周日, Returned Code: 0 
+
+
+
+
+
+Current Task   : Build Index ( Size: 6000, Build-Mode: 0 )
+Current Command: "UMAD --runOption build --buildMode 0 --indexName image_6000_0_v2_f3_m100_tR0.1 --n allfeas.dat --v 2 --f 3 --t image --e MVPIndex --psm fft --dpm PivotWise --m 100 --init 6000 --F 6000 --s 2000 --dim 66 --res results_image_build_6000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt --tR 0.1 --sop Sequence --pbop Trisection"
+
+Build Started on 21:00:06.69 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `build'
+option -buildMode with value 0
+option -indexName with value image_6000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -numPivot with value `2'
+option -singlePivotFanout with value `3'
+option -dataType with value `image'
+option -listType with value `MVPIndex'
+option -pivotSelectionMethod with value `fft'
+option -partitionMethod with value `PivotWise'
+option -maxLeafSize with value `100'
+option -initialSize with value `6000'
+option -finalSize with value `6000'
+option -stepSize with value `2000'
+option -dim with value `66'
+option -resultsFileName with value `results_image_build_6000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt'
+option -trisectionRadius with value 0.1
+option -selectOptimalPivots with value `Sequence'
+option -partitionByOnePivot with value `Trisection'
+Root address:1879152 height of MVP-tree:23
+start get mvp-tree structure information!
+ height: 1 nodeNumber: 1 internal node child Number: 5 leaf node child number:4
+ height: 2 nodeNumber: 9 internal node child Number: 9 leaf node child number:17
+ height: 3 nodeNumber: 26 internal node child Number: 8 leaf node child number:30
+ height: 4 nodeNumber: 38 internal node child Number: 7 leaf node child number:23
+ height: 5 nodeNumber: 30 internal node child Number: 6 leaf node child number:22
+ height: 6 nodeNumber: 28 internal node child Number: 4 leaf node child number:19
+ height: 7 nodeNumber: 23 internal node child Number: 4 leaf node child number:8
+ height: 8 nodeNumber: 12 internal node child Number: 2 leaf node child number:11
+ height: 9 nodeNumber: 13 internal node child Number: 2 leaf node child number:5
+ height: 10 nodeNumber: 7 internal node child Number: 2 leaf node child number:8
+ height: 11 nodeNumber: 10 internal node child Number: 2 leaf node child number:6
+ height: 12 nodeNumber: 8 internal node child Number: 2 leaf node child number:4
+ height: 13 nodeNumber: 6 internal node child Number: 2 leaf node child number:6
+ height: 14 nodeNumber: 8 internal node child Number: 1 leaf node child number:5
+ height: 15 nodeNumber: 6 internal node child Number: 1 leaf node child number:1
+ height: 16 nodeNumber: 2 internal node child Number: 1 leaf node child number:4
+ height: 17 nodeNumber: 5 internal node child Number: 1 leaf node child number:3
+ height: 18 nodeNumber: 4 internal node child Number: 1 leaf node child number:4
+ height: 19 nodeNumber: 5 internal node child Number: 1 leaf node child number:2
+ height: 20 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 21 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 22 nodeNumber: 4 internal node child Number: 0 leaf node child number:3
+************** total internal node:64 total leaf node:191
+
+===========================================
+Build Ended on 21:00:19.29 2014/08/31 周日, Returned Code: 0 
+
+
+
+
+
+Current Task   : Build Index ( Size: 8000, Build-Mode: 0 )
+Current Command: "UMAD --runOption build --buildMode 0 --indexName image_8000_0_v2_f3_m100_tR0.1 --n allfeas.dat --v 2 --f 3 --t image --e MVPIndex --psm fft --dpm PivotWise --m 100 --init 8000 --F 8000 --s 2000 --dim 66 --res results_image_build_8000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt --tR 0.1 --sop Sequence --pbop Trisection"
+
+Build Started on 21:00:19.31 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `build'
+option -buildMode with value 0
+option -indexName with value image_8000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -numPivot with value `2'
+option -singlePivotFanout with value `3'
+option -dataType with value `image'
+option -listType with value `MVPIndex'
+option -pivotSelectionMethod with value `fft'
+option -partitionMethod with value `PivotWise'
+option -maxLeafSize with value `100'
+option -initialSize with value `8000'
+option -finalSize with value `8000'
+option -stepSize with value `2000'
+option -dim with value `66'
+option -resultsFileName with value `results_image_build_8000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt'
+option -trisectionRadius with value 0.1
+option -selectOptimalPivots with value `Sequence'
+option -partitionByOnePivot with value `Trisection'
+Root address:2507428 height of MVP-tree:53
+start get mvp-tree structure information!
+ height: 1 nodeNumber: 1 internal node child Number: 5 leaf node child number:4
+ height: 2 nodeNumber: 9 internal node child Number: 7 leaf node child number:21
+ height: 3 nodeNumber: 28 internal node child Number: 9 leaf node child number:23
+ height: 4 nodeNumber: 32 internal node child Number: 8 leaf node child number:26
+ height: 5 nodeNumber: 34 internal node child Number: 7 leaf node child number:19
+ height: 6 nodeNumber: 26 internal node child Number: 6 leaf node child number:20
+ height: 7 nodeNumber: 26 internal node child Number: 6 leaf node child number:14
+ height: 8 nodeNumber: 20 internal node child Number: 6 leaf node child number:11
+ height: 9 nodeNumber: 17 internal node child Number: 7 leaf node child number:11
+ height: 10 nodeNumber: 18 internal node child Number: 4 leaf node child number:15
+ height: 11 nodeNumber: 19 internal node child Number: 2 leaf node child number:12
+ height: 12 nodeNumber: 14 internal node child Number: 2 leaf node child number:5
+ height: 13 nodeNumber: 7 internal node child Number: 1 leaf node child number:6
+ height: 14 nodeNumber: 7 internal node child Number: 1 leaf node child number:3
+ height: 15 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 16 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 17 nodeNumber: 2 internal node child Number: 1 leaf node child number:3
+ height: 18 nodeNumber: 4 internal node child Number: 1 leaf node child number:4
+ height: 19 nodeNumber: 5 internal node child Number: 1 leaf node child number:3
+ height: 20 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 21 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 22 nodeNumber: 3 internal node child Number: 1 leaf node child number:4
+ height: 23 nodeNumber: 5 internal node child Number: 1 leaf node child number:3
+ height: 24 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 25 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 26 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 27 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 28 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 29 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 30 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 31 nodeNumber: 3 internal node child Number: 1 leaf node child number:4
+ height: 32 nodeNumber: 5 internal node child Number: 1 leaf node child number:3
+ height: 33 nodeNumber: 4 internal node child Number: 1 leaf node child number:1
+ height: 34 nodeNumber: 2 internal node child Number: 1 leaf node child number:2
+ height: 35 nodeNumber: 3 internal node child Number: 1 leaf node child number:2
+ height: 36 nodeNumber: 3 internal node child Number: 1 leaf node child number:2
+ height: 37 nodeNumber: 3 internal node child Number: 1 leaf node child number:2
+ height: 38 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 39 nodeNumber: 2 internal node child Number: 1 leaf node child number:3
+ height: 40 nodeNumber: 4 internal node child Number: 1 leaf node child number:1
+ height: 41 nodeNumber: 2 internal node child Number: 1 leaf node child number:3
+ height: 42 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 43 nodeNumber: 3 internal node child Number: 1 leaf node child number:4
+ height: 44 nodeNumber: 5 internal node child Number: 1 leaf node child number:3
+ height: 45 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 46 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 47 nodeNumber: 2 internal node child Number: 1 leaf node child number:1
+ height: 48 nodeNumber: 2 internal node child Number: 1 leaf node child number:2
+ height: 49 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 50 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 51 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 52 nodeNumber: 2 internal node child Number: 0 leaf node child number:2
+************** total internal node:109 total leaf node:280
+
+===========================================
+Build Ended on 21:00:40.16 2014/08/31 周日, Returned Code: 0 
+
+
+
+
+
+Current Task   : Build Index ( Size: 10000, Build-Mode: 0 )
+Current Command: "UMAD --runOption build --buildMode 0 --indexName image_10000_0_v2_f3_m100_tR0.1 --n allfeas.dat --v 2 --f 3 --t image --e MVPIndex --psm fft --dpm PivotWise --m 100 --init 10000 --F 10000 --s 2000 --dim 66 --res results_image_build_10000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt --tR 0.1 --sop Sequence --pbop Trisection"
+
+Build Started on 21:00:40.18 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `build'
+option -buildMode with value 0
+option -indexName with value image_10000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -numPivot with value `2'
+option -singlePivotFanout with value `3'
+option -dataType with value `image'
+option -listType with value `MVPIndex'
+option -pivotSelectionMethod with value `fft'
+option -partitionMethod with value `PivotWise'
+option -maxLeafSize with value `100'
+option -initialSize with value `10000'
+option -finalSize with value `10000'
+option -stepSize with value `2000'
+option -dim with value `66'
+option -resultsFileName with value `results_image_build_10000i_0_fft_PivotWise_MVPIndex_v2_f3_m100_dim66_tR0.1.txt'
+option -trisectionRadius with value 0.1
+option -selectOptimalPivots with value `Sequence'
+option -partitionByOnePivot with value `Trisection'
+Root address:3133514 height of MVP-tree:46
+start get mvp-tree structure information!
+ height: 1 nodeNumber: 1 internal node child Number: 6 leaf node child number:2
+ height: 2 nodeNumber: 8 internal node child Number: 11 leaf node child number:19
+ height: 3 nodeNumber: 30 internal node child Number: 13 leaf node child number:31
+ height: 4 nodeNumber: 44 internal node child Number: 10 leaf node child number:34
+ height: 5 nodeNumber: 44 internal node child Number: 10 leaf node child number:28
+ height: 6 nodeNumber: 38 internal node child Number: 7 leaf node child number:24
+ height: 7 nodeNumber: 31 internal node child Number: 6 leaf node child number:19
+ height: 8 nodeNumber: 25 internal node child Number: 5 leaf node child number:14
+ height: 9 nodeNumber: 19 internal node child Number: 4 leaf node child number:13
+ height: 10 nodeNumber: 17 internal node child Number: 4 leaf node child number:11
+ height: 11 nodeNumber: 15 internal node child Number: 3 leaf node child number:11
+ height: 12 nodeNumber: 14 internal node child Number: 3 leaf node child number:9
+ height: 13 nodeNumber: 12 internal node child Number: 3 leaf node child number:5
+ height: 14 nodeNumber: 8 internal node child Number: 2 leaf node child number:8
+ height: 15 nodeNumber: 10 internal node child Number: 2 leaf node child number:6
+ height: 16 nodeNumber: 8 internal node child Number: 2 leaf node child number:4
+ height: 17 nodeNumber: 6 internal node child Number: 2 leaf node child number:4
+ height: 18 nodeNumber: 6 internal node child Number: 2 leaf node child number:4
+ height: 19 nodeNumber: 6 internal node child Number: 2 leaf node child number:5
+ height: 20 nodeNumber: 7 internal node child Number: 1 leaf node child number:6
+ height: 21 nodeNumber: 7 internal node child Number: 1 leaf node child number:3
+ height: 22 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 23 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 24 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 25 nodeNumber: 4 internal node child Number: 1 leaf node child number:4
+ height: 26 nodeNumber: 5 internal node child Number: 1 leaf node child number:2
+ height: 27 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 28 nodeNumber: 4 internal node child Number: 1 leaf node child number:1
+ height: 29 nodeNumber: 2 internal node child Number: 1 leaf node child number:3
+ height: 30 nodeNumber: 4 internal node child Number: 1 leaf node child number:4
+ height: 31 nodeNumber: 5 internal node child Number: 1 leaf node child number:2
+ height: 32 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 33 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 34 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 35 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 36 nodeNumber: 4 internal node child Number: 1 leaf node child number:3
+ height: 37 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 38 nodeNumber: 3 internal node child Number: 1 leaf node child number:2
+ height: 39 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 40 nodeNumber: 2 internal node child Number: 1 leaf node child number:2
+ height: 41 nodeNumber: 3 internal node child Number: 1 leaf node child number:3
+ height: 42 nodeNumber: 4 internal node child Number: 1 leaf node child number:2
+ height: 43 nodeNumber: 3 internal node child Number: 1 leaf node child number:2
+ height: 44 nodeNumber: 3 internal node child Number: 1 leaf node child number:1
+ height: 45 nodeNumber: 2 internal node child Number: 0 leaf node child number:4
+************** total internal node:123 total leaf node:321
+
+===========================================
+Build Ended on 21:01:04.45 2014/08/31 周日, Returned Code: 0 
+
+

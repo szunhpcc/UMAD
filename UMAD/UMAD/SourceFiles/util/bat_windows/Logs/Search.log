@@ -1,0 +1,163 @@
+                 Search Log
+         21:01:04.46 2014/08/31 周日
+===========================================
+
+
+
+Current Task   : Search Index ( Size: 2000, Search-Mode: 1, Built-Mode: 0 )
+Current Command: "UMAD --runOption search --searchMode 1 --indexName image_2000_0_v2_f3_m100_tR0.1 --n allfeas.dat --t image --dim 66 --q allfeas.dat --fq 0 --l 10 --a 0.3 --i 0 --y 0.05 --ver 0 --init 2000 --buildMode 0 --res results_search_image_datasize_2000_buildMode_0_searchMode_1.txt"
+
+Search Started on 21:01:04.47 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `search'
+option -searchMode with value 1
+option -indexName with value image_2000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -dataType with value `image'
+option -dim with value `66'
+option -queryFileName with value `allfeas.dat'
+option -firstQuery with value `0'
+option -lastQuery with value `10'
+option -maxRadius with value `0.300000'
+option -minRadius with value `0.000000'
+option -step with value `0.050000'
+option -verify with value `0'
+option -initialSize with value `2000'
+option -buildMode with value 0
+option -resultsFileName with value `results_search_image_datasize_2000_buildMode_0_searchMode_1.txt'
+Number of cached nodes:21
+
+===========================================
+Search Ended on 21:01:07.96 2014/08/31 周日, Returned Code: 0 
+
+
+
+
+
+Current Task   : Search Index ( Size: 4000, Search-Mode: 1, Built-Mode: 0 )
+Current Command: "UMAD --runOption search --searchMode 1 --indexName image_4000_0_v2_f3_m100_tR0.1 --n allfeas.dat --t image --dim 66 --q allfeas.dat --fq 0 --l 10 --a 0.3 --i 0 --y 0.05 --ver 0 --init 4000 --buildMode 0 --res results_search_image_datasize_4000_buildMode_0_searchMode_1.txt"
+
+Search Started on 21:01:07.98 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `search'
+option -searchMode with value 1
+option -indexName with value image_4000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -dataType with value `image'
+option -dim with value `66'
+option -queryFileName with value `allfeas.dat'
+option -firstQuery with value `0'
+option -lastQuery with value `10'
+option -maxRadius with value `0.300000'
+option -minRadius with value `0.000000'
+option -step with value `0.050000'
+option -verify with value `0'
+option -initialSize with value `4000'
+option -buildMode with value 0
+option -resultsFileName with value `results_search_image_datasize_4000_buildMode_0_searchMode_1.txt'
+Number of cached nodes:19
+
+===========================================
+Search Ended on 21:01:13.61 2014/08/31 周日, Returned Code: 0 
+
+
+
+
+
+Current Task   : Search Index ( Size: 6000, Search-Mode: 1, Built-Mode: 0 )
+Current Command: "UMAD --runOption search --searchMode 1 --indexName image_6000_0_v2_f3_m100_tR0.1 --n allfeas.dat --t image --dim 66 --q allfeas.dat --fq 0 --l 10 --a 0.3 --i 0 --y 0.05 --ver 0 --init 6000 --buildMode 0 --res results_search_image_datasize_6000_buildMode_0_searchMode_1.txt"
+
+Search Started on 21:01:13.63 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `search'
+option -searchMode with value 1
+option -indexName with value image_6000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -dataType with value `image'
+option -dim with value `66'
+option -queryFileName with value `allfeas.dat'
+option -firstQuery with value `0'
+option -lastQuery with value `10'
+option -maxRadius with value `0.300000'
+option -minRadius with value `0.000000'
+option -step with value `0.050000'
+option -verify with value `0'
+option -initialSize with value `6000'
+option -buildMode with value 0
+option -resultsFileName with value `results_search_image_datasize_6000_buildMode_0_searchMode_1.txt'
+Number of cached nodes:21
+
+===========================================
+Search Ended on 21:01:21.83 2014/08/31 周日, Returned Code: 0 
+
+
+
+
+
+Current Task   : Search Index ( Size: 8000, Search-Mode: 1, Built-Mode: 0 )
+Current Command: "UMAD --runOption search --searchMode 1 --indexName image_8000_0_v2_f3_m100_tR0.1 --n allfeas.dat --t image --dim 66 --q allfeas.dat --fq 0 --l 10 --a 0.3 --i 0 --y 0.05 --ver 0 --init 8000 --buildMode 0 --res results_search_image_datasize_8000_buildMode_0_searchMode_1.txt"
+
+Search Started on 21:01:21.85 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `search'
+option -searchMode with value 1
+option -indexName with value image_8000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -dataType with value `image'
+option -dim with value `66'
+option -queryFileName with value `allfeas.dat'
+option -firstQuery with value `0'
+option -lastQuery with value `10'
+option -maxRadius with value `0.300000'
+option -minRadius with value `0.000000'
+option -step with value `0.050000'
+option -verify with value `0'
+option -initialSize with value `8000'
+option -buildMode with value 0
+option -resultsFileName with value `results_search_image_datasize_8000_buildMode_0_searchMode_1.txt'
+Number of cached nodes:25
+
+===========================================
+Search Ended on 21:01:32.42 2014/08/31 周日, Returned Code: 0 
+
+
+
+
+
+Current Task   : Search Index ( Size: 10000, Search-Mode: 1, Built-Mode: 0 )
+Current Command: "UMAD --runOption search --searchMode 1 --indexName image_10000_0_v2_f3_m100_tR0.1 --n allfeas.dat --t image --dim 66 --q allfeas.dat --fq 0 --l 10 --a 0.3 --i 0 --y 0.05 --ver 0 --init 10000 --buildMode 0 --res results_search_image_datasize_10000_buildMode_0_searchMode_1.txt"
+
+Search Started on 21:01:32.45 2014/08/31 周日
+Std Output:
+===========================================
+
+option -runOption with value `search'
+option -searchMode with value 1
+option -indexName with value image_10000_0_v2_f3_m100_tR0.1
+option -dataFileName with value `allfeas.dat'
+option -dataType with value `image'
+option -dim with value `66'
+option -queryFileName with value `allfeas.dat'
+option -firstQuery with value `0'
+option -lastQuery with value `10'
+option -maxRadius with value `0.300000'
+option -minRadius with value `0.000000'
+option -step with value `0.050000'
+option -verify with value `0'
+option -initialSize with value `10000'
+option -buildMode with value 0
+option -resultsFileName with value `results_search_image_datasize_10000_buildMode_0_searchMode_1.txt'
+Number of cached nodes:21
+
+===========================================
+Search Ended on 21:01:45.54 2014/08/31 周日, Returned Code: 0 
+
+

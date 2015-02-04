@@ -1,0 +1,16 @@
+=================Loading Data Used Time And Memory=================
+loadDataTime  :3.24482 s
+WorkingSetSize:7.29297 MB / PeakWorkingSetSize: 260.633 MB 
+PagefileUsage :261.578 MB/ PeakPagefileUsage: 514.926 MB 
+MemoryUsage   :268.871 MB/ PeakMemoryUsage: 775.559 MB 
+===================================================================
+
+=================Building index Used Time And Memory=================
+datasize          :1000
+distCalculateTimes:153675
+buildTime         :0.483603 s
+WorkingSetSize    :8.19141 MB / PeakWorkingSetSize: 260.633 MB 
+PagefileUsage     :261.934 MB/ PeakPagefileUsage: 514.926 MB 
+MemoryUsage       :270.125 MB/ PeakMemoryUsage: 775.559 MB 
+===================================================================
+
