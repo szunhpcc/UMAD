@@ -14,6 +14,15 @@ improves the effectiveness of data retrieval.
 This is [UMAD Web Site](http://umad.5520.pw/umad_Introduce/index.html)
 
 #Features
-	Metric space similarity searching
-	Universal Management and Analyzing of Data
+  * Metric space similarity searching
+  * Universal Management and Analyzing of Data
 	
+##The address of the reposiory
+
+* HTTP Protocol：'https://github.com/szunhpcc/UMAD.git'
+* SSH Protocol: 'git@github.com:szunhpcc/UMAD.git'
+
+##Clone the repository
+
+      $ git clone git@github.com:szunhpcc/UMAD.git
+
