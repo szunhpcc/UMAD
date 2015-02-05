@@ -19,8 +19,8 @@ This is [UMAD Web Site](http://umad.5520.pw/umad_Introduce/index.html)
 	
 ##The address of the reposiory
 
-* HTTP Protocol：'https://github.com/szunhpcc/UMAD.git'
-* SSH Protocol: 'git@github.com:szunhpcc/UMAD.git'
+* HTTP Protocol：`https://github.com/szunhpcc/UMAD.git`.
+* SSH Protocol: `ssh://git@github.com:szunhpcc/UMAD.git` .
 
 ##Clone the repository
 
